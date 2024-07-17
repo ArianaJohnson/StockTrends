@@ -1,1 +1,1 @@
-takes data (using placeholder fetch_stock_data)- but can take an API or other data source and use linear regression to predict stock trends for at least ten days after given end date 
+Recieves data (currently using placeholder fetch_stock_data)- however able API or other data source and uses a linear regression model to predict stock trends for at least ten days after given end date 
